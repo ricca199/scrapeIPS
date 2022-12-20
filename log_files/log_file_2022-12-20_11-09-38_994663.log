@@ -1,0 +1,163 @@
+2022-12-20 11:09:50.817 | DEBUG    | __main__:main:151 - the count is: 0
+2022-12-20 11:09:50.818 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:09:50.820 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812']
+2022-12-20 11:09:50.821 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/5812/ownerID/376714/ownerID_A/1
+2022-12-20 11:09:50.823 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:09:52.631 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:09:52.632 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/5812/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:08.247 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:10:08.274 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:10:08.285 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:10:25.892 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/5812/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:26.005 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:10:26.010 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:10:26.455 | DEBUG    | __main__:_run:130 - The links are: ['https:brownleafcosmetics.com', 'https:eliebeaumont.com', 'https:shoptankaustralia.com', 'https:eatsweetnothings.com', 'https:minimashop.it', 'https:aldeababy.com', 'https:squishcandies.com', 'https:beautyface.hn', 'https:thelivelybrand.com', 'https:siesta-co.com', 'https:cerberus-strength.com.au', 'https:kira-home.com', 'https:marysia.com', 'https:plastixrevolution.net', 'https:coolassblackwoman.com', 'https:fwooshstore.com', 'https:theskinshopintl.com', 'https:retroandgroovy.com', 'https:dufy410.shop', 'https:dekornahome.com', 'https:ogston.com', 'https:shoppingoes.com', 'https:specialisedkiteboarding.com', 'https:advantagemailboxes.com', 'https:iluvlittlepeople.com', 'https:bedlam-sports.com', 'https:luckieffer.fr', 'https:costathreads.com', 'https:fitnessherald.com', 'https:lojaessencial.com', 'https:leawoodhemp.com.au', 'https:drkong.com.sg', 'https:loevandoren.nl', 'https:arumeeskincare.com', 'https:toytasticpk.com', 'https:roundhillfurniture.com', 'https:segohair.com', 'https:earthandstar.com', 'https:69vibrationskenya.com', 'https:infiniteblack.net', 'https:astore.in', 'https:gadgetily.com', 'https:colemanhill.com', 'https:vlinebeauty.com', 'https:nomadsupplystore.com', 'https:blyntoys.com', 'https:nativeinstinctco.com', 'https:artlinesdesign.com', 'https:elevationbeef.com', 'https:ralframon.com']
+2022-12-20 11:10:26.457 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:10:26.486 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:10:28.514 | DEBUG    | __main__:main:151 - the count is: 1
+2022-12-20 11:10:28.516 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:10:28.518 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803']
+2022-12-20 11:10:28.519 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/4803/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:28.520 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:10:33.848 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:10:33.849 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/4803/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:40.109 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:10:40.138 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:10:40.152 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:10:55.618 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/4803/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:55.752 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:10:55.766 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:10:56.238 | DEBUG    | __main__:_run:130 - The links are: ['https:neglassart.com', 'https:trackle.de', 'https:voysbrand.com', 'https:roboterwerk.de', 'https:tourangle.com', 'https:potomacriversupply.com', 'https:bjscountrycharm.net', 'https:socafood.com', 'https:originalaustralianugg.com.au', 'https:barshop.mx', 'https:goatfully.com', 'https:oldvintage.jp', 'https:nakedcityclothing.com', 'https:heyaylo.com', 'https:stateofapril.com', 'https:alighieri.com', 'https:thesilverstick.com', 'https:lovelybs.com', 'https:babylove.ie', 'https:spineseater.com', 'https:sandywilsonhome.com', 'https:purifirma.com', 'https:trendastisch.de', 'https:stonesandspirits.com', 'https:theecoshift.online', 'https:myxexy.com', 'https:fandangofiretools.com', 'https:bomboraties.com', 'https:ludovikas.com', 'https:pickaboo.in', 'https:travel-pakt.com', 'https:slimflexstore.com', 'https:mccorddesignco.com', 'https:bayronbaysunglasses.es', 'https:ohmyboxmx.com', 'https:karmelsquare.com', 'https:iwantpopart.com', 'https:floragy.co.uk', 'https:surfingsunday.com', 'https:kukuu.fr', 'https:shopauthenticlifestyle.com', 'https:runningskirts.com', 'https:showerstory.com', 'https:inhalasoulwear.com', 'https:alexandraaustralia.com', 'https:natalieryan.design', 'https:shopcooperstowndistillery.com', 'https:cholsy.com', 'https:vansion.de', 'https:alaedluxurycollection.com']
+2022-12-20 11:10:56.240 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:10:56.241 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:10:58.266 | DEBUG    | __main__:main:151 - the count is: 2
+2022-12-20 11:10:58.267 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:10:58.269 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685']
+2022-12-20 11:10:58.270 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/4685/ownerID/376714/ownerID_A/1
+2022-12-20 11:10:58.272 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:11:03.585 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:11:03.587 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/4685/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:09.473 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:11:09.505 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:11:09.518 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:11:25.595 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/4685/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:25.739 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:11:25.744 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:11:26.241 | DEBUG    | __main__:_run:130 - The links are: ['https:nirvapate.com', 'https:stickysheets.com', 'https:rosazari.com', 'https:epitomesg.com', 'https:salonilondon.com', 'https:1stdefenceindustries.com', 'https:foundboards.com', 'https:kannavie.co', 'https:hannahmartinuk.com', 'https:signatureeditiongames.com', 'https:kiwistuff.net.nz', 'https:dropitmodern.com', 'https:utvstereo.com', 'https:bfwoodbeard.com', 'https:chaliseyz.com', 'https:dealteora.co.il', 'https:lydgatefarms.shop', 'https:indianstyleshop.com', 'https:popnod.com', 'https:mare-azzuro.com', 'https:fashoogle.com', 'https:snacksoutlet.com', 'https:wepersonalcare.com', 'https:flockandfeathers.com', 'https:contour.com', 'https:dapperday.com', 'https:darkicedesigns.com', 'https:oliversevoo.com', 'https:oscar9lives.com', 'https:gleesa-home.de', 'https:suizaoutfitters.com', 'https:chunkycherry.com', 'https:acostaclothing.com', 'https:layoutcollection.com', 'https:strikeyourcoin.com', 'https:brwnstne.co', 'https:marfacabinets.com', 'https:greatbritishmeat.com', 'https:mikeshard.co.uk', 'https:luxetropic.com', 'https:biohmhealth.com', 'https:xioix.com', 'https:erotes.be', 'https:teeupstore.com', 'https:playmonks.com', 'https:triphoodclub.com', 'https:cincyshirts.com', 'https:hyundai-electronics.cz', 'https:coachtiffshop.com', 'https:lagom142.com']
+2022-12-20 11:11:26.244 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:11:26.245 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:11:28.279 | DEBUG    | __main__:main:151 - the count is: 3
+2022-12-20 11:11:28.280 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:11:28.282 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921']
+2022-12-20 11:11:28.284 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/3921/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:28.285 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:11:33.618 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:11:33.620 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/3921/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:39.589 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:11:39.620 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:11:39.631 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:11:55.843 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/3921/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:55.890 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:11:55.896 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:11:56.336 | DEBUG    | __main__:_run:130 - The links are: ['https:86corner.com', 'https:ringisrael.com', 'https:luminaoflondon.com', 'https:curatdby.com', 'https:stonehousepottery.co', 'https:laportegardens.com', 'https:conceptgolf.ie', 'https:wonderspray.com', 'https:lobeaus.com', 'https:lojaemcampo.com', 'https:heinandclay.com', 'https:ddlgworld.net', 'https:feeltone.com', 'https:jlvelo.com', 'https:miami-guitars.com', 'https:smartwareco.ca', 'https:backwoodsdog.com', 'https:kadoonyc.com', 'https:petngo.com.mx', 'https:zaminerals.com', 'https:ginza291.com', 'https:bejewelled.org', 'https:crackershack.co.nz', 'https:broom0.com', 'https:cnydroneworks.com', 'https:idazzlemehair.com', 'https:luckywholesale.net', 'https:diablo1984store.com', 'https:londontoycompany.co.uk', 'https:creaturesofdecay.com', 'https:stork-co.com', 'https:monkeybusinessusa.com', 'https:stephanieswansonjewelry-everychild.com', 'https:lapetiteparisienne.co', 'https:lightingzone.store', 'https:liftjack.co', 'https:alvesimportados.com.br', 'https:fajascolombianas.mx', 'https:allaboutvibe.com', 'https:bodylovescake.com', 'https:angeladanieljewellery.com', 'https:svet-elektrokola.cz', 'https:nxtlvlindustries.com', 'https:blacktravel.club', 'https:puppetcombostore.com', 'https:beautyantix.co.nz', 'https:katandannie.com', 'https:xouxouberlin.com', 'https:codetasker.com', 'https:sparrowdesigns.co']
+2022-12-20 11:11:56.338 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:11:56.340 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:11:58.368 | DEBUG    | __main__:main:151 - the count is: 4
+2022-12-20 11:11:58.370 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:11:58.371 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942']
+2022-12-20 11:11:58.373 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/2942/ownerID/376714/ownerID_A/1
+2022-12-20 11:11:58.375 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:12:03.684 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:12:03.686 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/2942/ownerID/376714/ownerID_A/1
+2022-12-20 11:12:11.874 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:12:11.903 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:12:11.918 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:12:33.160 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/2942/ownerID/376714/ownerID_A/1
+2022-12-20 11:12:33.305 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:12:33.313 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:12:33.832 | DEBUG    | __main__:_run:130 - The links are: ['https:gabdala.com', 'https:alrdygone.com', 'https:shopsneakerdrip.com', 'https:iconwrap.store', 'https:knitplanner.jp', 'https:sovdjupt.se', 'https:stenbolaget.se', 'https:sandiegosoap.com', 'https:brownbuddies.com', 'https:babagreens.com', 'https:lovemonthli.com', 'https:ultrashoponline.com.br', 'https:fwstyle.com', 'https:miamiperformanceinc.com', 'https:foreveroriginal.co.uk', 'https:thepurrfectpeach.com', 'https:ticketfindr.nl', 'https:ms-sportversand.de', 'https:ifastfitness.com', 'https:air-slippers.de', 'https:detteflies.com', 'https:tcbjewelryshop.com', 'https:biggrassliving.com', 'https:stokton.it', 'https:dreamlantern.us', 'https:snow-buffalo.com', 'https:valetdepique.fr', 'https:thestivesco.co.uk', 'https:onstore.shop', 'https:howayte.com', 'https:explorescientific.com', 'https:ballooninabox.ie', 'https:jlandcoboutique.com', 'https:thebreadcompany.co.uk', 'https:surftechniques.com', 'https:zerostileshop.com', 'https:trendytrinket.net', 'https:kayinay.ca', 'https:vedbiten.se', 'https:thelovingbowl.com', 'https:shopbluicon.com', 'https:pistildesigns.com', 'https:paguroupcycle.com', 'https:tonausa.com', 'https:sierraandthegirlsboutique.com', 'https:vylera.se', 'https:foreignsupplyusa.com', 'https:specterpro.com', 'https:americanpetplace.com', 'https:nethikanaturals.com']
+2022-12-20 11:12:33.834 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:12:33.835 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:12:35.863 | DEBUG    | __main__:main:151 - the count is: 5
+2022-12-20 11:12:35.864 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:12:35.866 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942', '5586']
+2022-12-20 11:12:35.867 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/5586/ownerID/376714/ownerID_A/1
+2022-12-20 11:12:35.869 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:12:41.170 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:12:41.171 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/5586/ownerID/376714/ownerID_A/1
+2022-12-20 11:12:47.906 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:12:47.934 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:12:47.947 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:13:07.345 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/5586/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:07.395 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:13:07.403 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:13:07.893 | DEBUG    | __main__:_run:130 - The links are: ['https:beidle.co', 'https:panaceacoffee.com', 'https:bensusedmiataparts.com', 'https:mymaskpro.com', 'https:bebrightcoffee.com', 'https:bestonlinetrend.com', 'https:karudistillery.com.au', 'https:divasanddevils.com', 'https:creeandcompany.com', 'https:pierce-furniture.com', 'https:thesufistudio.com', 'https:fitgymzone.com', 'https:hoekeyswimwear.com', 'https:aromabarbeauty.com', 'https:petitloli.com', 'https:mahagro.com', 'https:givimore.com', 'https:perla-store.com', 'https:eastafricanimports.com', 'https:hmkliving.com', 'https:ergofinity.com', 'https:boutiquehomeplans.com', 'https:originalsbyafricasbest.com', 'https:begoniaroseco.com', 'https:badianinewyork.com', 'https:chicpets.hk', 'https:geckoman.com', 'https:pickitchen.com', 'https:fireaffair.com', 'https:strikehold.com', 'https:beldeur.nl', 'https:presents-zone.com', 'https:selected-clothing.com', 'https:boopacks.com', 'https:icamsecurity.com', 'https:olliebelle.com', 'https:munid.it', 'https:mais-viver.com', 'https:boomboomworld.com', 'https:roamingcooking.com', 'https:oldhabits-diehard.com', 'https:eco-cannabis.eu', 'https:prickle.co.nz', 'https:otaa.com', 'https:bigreuse.org', 'https:crossingsnewmarket.com', 'https:otakeebs.com', 'https:dashingdiva.co.nz', 'https:anforama.com', 'https:twostouch.com']
+2022-12-20 11:13:07.894 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:13:07.895 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:13:09.936 | DEBUG    | __main__:main:151 - the count is: 6
+2022-12-20 11:13:09.937 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:13:09.939 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942', '5586', '4192']
+2022-12-20 11:13:09.962 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/4192/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:09.964 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:13:15.301 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:13:15.303 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/4192/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:21.317 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:13:21.346 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:13:21.360 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:13:37.832 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/4192/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:37.973 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:13:37.985 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:13:38.481 | DEBUG    | __main__:_run:130 - The links are: ['https:ronnykobo.com', 'https:bodyfitnestore.com', 'https:featherandfind.com', 'https:maeandraebows.com', 'https:accgamer.com', 'https:spapartsuk.co.uk', 'https:shashib2b.com', 'https:chantilly.com', 'https:lethbridgetacticalsupply.com', 'https:milaeveessentials.com', 'https:alonshina.com', 'https:rmbarry.com', 'https:shemime.com', 'https:bilitis.gr', 'https:sansvertigo.com.au', 'https:customcryptohoodie.com', 'https:itsbeancalledjava.com', 'https:officinegastronomiche.it', 'https:mrfarmer.sg', 'https:hanksauce.com', 'https:bendyprint.com', 'https:steepleton.com', 'https:savantapothecary.com.au', 'https:dealsamazingdeals.com', 'https:kinggaming.ca', 'https:climbinggoat.co.uk', 'https:glorified-gifts.com', 'https:bluedotmaps.com', 'https:mungoandmaud.com', 'https:haircoutureboutique.com', 'https:tinydearbox.com', 'https:housekuipers.com', 'https:wonderlandthemepark.com', 'https:bestbaby.com.br', 'https:roanocollection.com', 'https:iucosmetics.com.br', 'https:deanoffashion.com', 'https:derbyoriginals.com', 'https:softprowatersystems.com', 'https:reborn.paris', 'https:libertymed.ca', 'https:aquasmartbottle.com', 'https:shop4prettylittlethings.com', 'https:mumsmall.in', 'https:deddimaag.com', 'https:leaturner.co.uk', 'https:petitfoot.com', 'https:mammamia-deals.com', 'https:mrsweetsleep.fr', 'https:roseflowerteamug.com']
+2022-12-20 11:13:38.483 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:13:38.484 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:13:40.517 | DEBUG    | __main__:main:151 - the count is: 7
+2022-12-20 11:13:40.519 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:13:40.520 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942', '5586', '4192', '751']
+2022-12-20 11:13:40.522 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/751/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:40.523 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:13:45.836 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:13:45.837 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/751/ownerID/376714/ownerID_A/1
+2022-12-20 11:13:51.780 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:13:51.809 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:13:51.824 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:14:05.474 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/751/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:05.520 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:14:05.526 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:14:06.022 | DEBUG    | __main__:_run:130 - The links are: ['https:outofkit.com', 'https:raymunn.co.uk', 'https:hbcorganics.com', 'https:saltwaternyc.com', 'https:eauso.com', 'https:cloudy-humidifier.com', 'https:cloveandtwine.com', 'https:lojacrisoliveira.com.br', 'https:herbo.com', 'https:stylishdesignfurniture.com', 'https:spnmobility.com', 'https:clubfurniture.com', 'https:kellyos.com', 'https:epanoui.co.uk', 'https:american-haptics.com', 'https:clubllondon.us', 'https:clubrideapparel.com', 'https:clubvest.com', 'https:clutchnails.com', 'https:cookiessf.com', 'https:durangognar.com', 'https:mrs-ritchie.com', 'https:cmashopy.com', 'https:cmcdesign.com', 'https:filipacchi.com', 'https:ethanzohn.com', 'https:mclachlansyrup.ca', 'https:yepyou.in', 'https:artpaintingworld.com', 'https:mixshoppings.com', 'https:strivingtogether.com', 'https:cncplanetart.com', 'https:cnfiln.com', 'https:hydrip.de', 'https:f3d.es', 'https:metaluts.com', 'https:deckmate.com', 'https:bandholz.com', 'https:cpapx.com', 'https:drewscookies.com', 'https:justpinas.com', 'https:one80light.com', 'https:montresapphire.com', 'https:cardelucci.com', 'https:ninjasticker.com', 'https:raawii.de', 'https:cobiabeauty.com', 'https:anniesuniqueaccessories.com', 'https:coloringpins.com', 'https:wheatons.ca']
+2022-12-20 11:14:06.024 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:14:06.026 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:14:08.055 | DEBUG    | __main__:main:151 - the count is: 8
+2022-12-20 11:14:08.056 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:14:08.058 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942', '5586', '4192', '751', '2643']
+2022-12-20 11:14:08.059 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/2643/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:08.060 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:14:13.341 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:14:13.342 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/2643/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:19.274 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:14:19.306 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:14:19.319 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:14:35.230 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/2643/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:35.273 | DEBUG    | __main__:_run:126 - The links are displayed: True
+2022-12-20 11:14:35.279 | DEBUG    | __main__:_run:127 - True
+2022-12-20 11:14:35.762 | DEBUG    | __main__:_run:130 - The links are: ['https:afasports.com', 'https:17h10.com', 'https:shopmontagueworkshop.com', 'https:divineny.com', 'https:mayfairjewellers.com', 'https:trendify.co.in', 'https:bruinoutdoors.com', 'https:flytrapclothing.com', 'https:papiyona.com', 'https:elusivesociety.com', 'https:lafauxmagerie.com', 'https:cityblueshop.com', 'https:fabseasons.com', 'https:kamanionline.com', 'https:inspiranzadesigns.com', 'https:shopelan.com', 'https:boredparacord.com', 'https:manifestpharmacy.com', 'https:skinwearclothing.com', 'https:friscomo.com', 'https:emaystore.com', 'https:shopdenimhouse.com', 'https:atolla.us', 'https:sipshack.com', 'https:1983bakery.com', 'https:capcook.fr', 'https:ah6.nl', 'https:maulirituals.com', 'https:rebeccayateslondon.com', 'https:ilovemetricstore.com', 'https:apartmentnumber9.com', 'https:forever18.com', 'https:apnamarket.in', 'https:insideoutap.com.au', 'https:venturelitever.com', 'https:thedustpanandbrushstore.co.uk', 'https:roomantics.co.uk', 'https:passionsadultboutique.com', 'https:coastalculture.com', 'https:keystoship.com', 'https:armerialaparra.com', 'https:rozanarp.com', 'https:magstore.nz', 'https:nordicfit.co', 'https:tiffanymarieco.com', 'https:movingbuy.com', 'https:indubindu.com', 'https:lesima007.com', 'https:iedool.com', 'https:beckethitch.com']
+2022-12-20 11:14:35.764 | DEBUG    | __main__:main:182 - Links scraped at the first attempt: #0
+2022-12-20 11:14:35.765 | DEBUG    | __main__:main:191 - Updating the Table containing the URLS
+2022-12-20 11:14:37.790 | DEBUG    | __main__:main:151 - the count is: 9
+2022-12-20 11:14:37.791 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 11:14:37.793 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '5812', '4803', '4685', '3921', '2942', '5586', '4192', '751', '2643', '3397']
+2022-12-20 11:14:37.794 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/3397/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:37.796 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:14:43.109 | DEBUG    | __main__:main:180 - complete
+2022-12-20 11:14:43.111 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/3397/ownerID/376714/ownerID_A/1
+2022-12-20 11:14:48.969 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:14:48.997 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:14:49.010 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:14:50.577 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/3397/ownerID/376714/ownerID_A/1
+2022-12-20 11:15:51.474 | DEBUG    | __main__:main:187 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-20 11:15:51.476 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 11:15:53.267 | DEBUG    | __main__:main:189 - Re RUN...
+2022-12-20 11:15:53.268 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/3397/ownerID/376714/ownerID_A/1
+2022-12-20 11:15:59.339 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 11:15:59.366 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 11:15:59.378 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 11:16:01.063 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/3397/ownerID/376714/ownerID_A/1
