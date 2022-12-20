@@ -1,0 +1,19 @@
+2022-12-20 13:01:14.957 | DEBUG    | __main__:main:151 - the count is: 0
+2022-12-20 13:01:14.958 | DEBUG    | __main__:main:159 - New random number added to list
+2022-12-20 13:01:14.959 | INFO     | __main__:main:164 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '3414']
+2022-12-20 13:01:14.960 | DEBUG    | __main__:get_url:95 - The new page is: https://myip.ms/browse/sites/3414/ownerID/376714/ownerID_A/1
+2022-12-20 13:01:14.962 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 13:01:16.892 | DEBUG    | __main__:main:180 - complete
+2022-12-20 13:01:16.893 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/3414/ownerID/376714/ownerID_A/1
+2022-12-20 13:01:28.254 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 13:01:28.283 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 13:01:28.296 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 13:01:28.323 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/3414/ownerID/376714/ownerID_A/1
+2022-12-20 13:02:29.176 | DEBUG    | __main__:main:187 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-20 13:02:29.178 | INFO     | __main__:get_option_url:109 - Options and driver are being defined
+2022-12-20 13:02:30.993 | DEBUG    | __main__:main:189 - Re RUN...
+2022-12-20 13:02:30.994 | INFO     | __main__:_run:116 - Opening the URL page: https://myip.ms/browse/sites/3414/ownerID/376714/ownerID_A/1
+2022-12-20 13:02:32.595 | INFO     | __main__:_run:119 - Detecting Human Verification
+2022-12-20 13:02:32.621 | DEBUG    | __main__:detect_verification:76 - Captcha not present
+2022-12-20 13:02:32.631 | DEBUG    | __main__:detect_verification:80 - Element is displayed: True
+2022-12-20 13:02:32.665 | DEBUG    | __main__:_run:122 - https://myip.ms/browse/sites/3414/ownerID/376714/ownerID_A/1

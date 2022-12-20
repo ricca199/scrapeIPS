@@ -1,0 +1,51 @@
+2022-12-20 14:17:58.054 | DEBUG    | __main__:main:163 - the count is: 0
+2022-12-20 14:17:58.055 | DEBUG    | __main__:main:171 - New random number added to list
+2022-12-20 14:17:58.056 | INFO     | __main__:main:176 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '3705']
+2022-12-20 14:17:58.058 | DEBUG    | __main__:get_url:103 - The new page is: https://myip.ms/browse/sites/3705/ownerID/376714/ownerID_A/1
+2022-12-20 14:17:58.060 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-20 14:17:59.869 | DEBUG    | __main__:main:192 - complete
+2022-12-20 14:17:59.870 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/3705/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:04.677 | INFO     | __main__:_run:127 - Detecting Human Verification
+2022-12-20 14:18:06.745 | DEBUG    | __main__:detect_captcha:91 - Captcha not present
+2022-12-20 14:18:06.759 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-20 14:18:15.832 | DEBUG    | __main__:_run:131 - https://myip.ms/browse/sites/3705/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:15.953 | DEBUG    | __main__:_run:135 - The links are displayed: True
+2022-12-20 14:18:15.970 | DEBUG    | __main__:_run:136 - True
+2022-12-20 14:18:16.460 | DEBUG    | __main__:_run:142 - The links are: ['https:denpres.com', 'https:goodnighthairbonnets.com', 'https:growbuddha.com', 'https:authentique.co', 'https:zatiknatural.com', 'https:realthorhammer.com', 'https:nobleobjects.com', 'https:slickdaddy.com.au', 'https:plump.mx', 'https:ketokravings.ca', 'https:marvinruby.com', 'https:loladesignltd.com', 'https:ediamondtools.com', 'https:indigoprivatelabel.com', 'https:simmerandco.ca', 'https:dorelhomeeurope.com', 'https:omgaidirect.com', 'https:lexafit.com', 'https:mushroomkingfarm.com', 'https:organicdogchef.shop', 'https:endpoint.bike', 'https:zioncases.com', 'https:themelidisjewels.com', 'https:dropideos.com', 'https:babysafe.co', 'https:goodbodyglow.com', 'https:pineapple.uk.com', 'https:bookmakerstore.com', 'https:inertiawave.com', 'https:catwalkconnect.com', 'https:botanicaonline.net', 'https:thefreshdiet.com', 'https:iamdelicious.de', 'https:macsfarmandgardenworld.com', 'https:biban.us', 'https:supportwo.com', 'https:ecommerce-uni.com', 'https:andscarlet.com', 'https:certifiedseeds.ca', 'https:mykeslab.com', 'https:brightlittles.com', 'https:itsmoosecraft.com', 'https:dixieandgrace.com', 'https:gravel1957.com', 'https:sentino.ro', 'https:vanbase.ca', 'https:clicknpik.com', 'https:slfeapparel.com', 'https:lanorabags.com', 'https:freshx.co.nz']
+2022-12-20 14:18:16.462 | DEBUG    | __main__:main:194 - Links scraped at the first attempt: #0
+2022-12-20 14:18:16.462 | DEBUG    | __main__:main:203 - Updating the Table containing the URLS
+2022-12-20 14:18:18.485 | DEBUG    | __main__:main:163 - the count is: 1
+2022-12-20 14:18:18.487 | DEBUG    | __main__:main:171 - New random number added to list
+2022-12-20 14:18:18.488 | INFO     | __main__:main:176 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '3705', '2903']
+2022-12-20 14:18:18.489 | DEBUG    | __main__:get_url:103 - The new page is: https://myip.ms/browse/sites/2903/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:18.490 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-20 14:18:23.768 | DEBUG    | __main__:main:192 - complete
+2022-12-20 14:18:23.769 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/2903/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:27.951 | INFO     | __main__:_run:127 - Detecting Human Verification
+2022-12-20 14:18:29.985 | DEBUG    | __main__:detect_captcha:91 - Captcha not present
+2022-12-20 14:18:29.998 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-20 14:18:39.267 | DEBUG    | __main__:_run:131 - https://myip.ms/browse/sites/2903/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:39.291 | DEBUG    | __main__:_run:135 - The links are displayed: True
+2022-12-20 14:18:39.297 | DEBUG    | __main__:_run:136 - True
+2022-12-20 14:18:39.804 | DEBUG    | __main__:_run:142 - The links are: ['https:jponteprinting.com', 'https:livinginsideatshirt.com', 'https:thebarbecueco.com.au', 'https:goldendandelion.com', 'https:zartana.net', 'https:alovebeauty11.com', 'https:blkmarkettees.com', 'https:directsigns.co.uk', 'https:ameliabeadelias.com', 'https:canadapaulabrasil.com', 'https:shopneazy.com', 'https:fruitisblender.com', 'https:ensleyreign.com', 'https:ozpack.com.tr', 'https:lention.com', 'https:thehustlegiftshop.com', 'https:marblecandyslabs.com', 'https:otterley.com', 'https:useberti.com.br', 'https:buffalogirl.com.au', 'https:fabdollboutique.com', 'https:foreveryoungbtq.com', 'https:renuherbs.com', 'https:dandenongsteel.com.au', 'https:packit.net', 'https:cocoaandco.com', 'https:classicbootsmatter.com', 'https:rimkat.com', 'https:gosleeves.com', 'https:kumeuriver.co.nz', 'https:rafael-neff.com', 'https:acapella.co', 'https:dogelord.com', 'https:zusenzomer.com', 'https:bandmerchusa.com', 'https:muscle-master.co.uk', 'https:soundline.co.nz', 'https:etmotorgear.com', 'https:bnbfaceshields.com', 'https:dadofsweden.com', 'https:coquorico.com', 'https:swisslaundry.ch', 'https:secondhandkites.com', 'https:postbox24.se', 'https:atpatelier.com', 'https:lamansh.in', 'https:snec30.com', 'https:kiandcoapparel.com', 'https:premiummallhk.com', 'https:josephbattisti.com']
+2022-12-20 14:18:39.806 | DEBUG    | __main__:main:194 - Links scraped at the first attempt: #0
+2022-12-20 14:18:39.806 | DEBUG    | __main__:main:203 - Updating the Table containing the URLS
+2022-12-20 14:18:41.846 | DEBUG    | __main__:main:163 - the count is: 2
+2022-12-20 14:18:41.848 | DEBUG    | __main__:main:171 - New random number added to list
+2022-12-20 14:18:41.849 | INFO     | __main__:main:176 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '3705', '2903', '7179']
+2022-12-20 14:18:41.850 | DEBUG    | __main__:get_url:103 - The new page is: https://myip.ms/browse/sites/7179/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:41.851 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-20 14:18:47.143 | DEBUG    | __main__:main:192 - complete
+2022-12-20 14:18:47.145 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/7179/ownerID/376714/ownerID_A/1
+2022-12-20 14:18:51.479 | INFO     | __main__:_run:127 - Detecting Human Verification
+2022-12-20 14:18:53.550 | DEBUG    | __main__:detect_captcha:91 - Captcha not present
+2022-12-20 14:18:53.561 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-20 14:18:54.848 | DEBUG    | __main__:_run:131 - https://myip.ms/browse/sites/7179/ownerID/376714/ownerID_A/1
+2022-12-20 14:19:55.608 | DEBUG    | __main__:main:199 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-20 14:19:55.610 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-20 14:19:57.401 | DEBUG    | __main__:main:201 - Re RUN...
+2022-12-20 14:19:57.402 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/7179/ownerID/376714/ownerID_A/1
+2022-12-20 14:20:01.904 | INFO     | __main__:_run:127 - Detecting Human Verification
+2022-12-20 14:20:03.951 | DEBUG    | __main__:detect_captcha:91 - Captcha not present
+2022-12-20 14:20:03.965 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-20 14:20:05.305 | DEBUG    | __main__:_run:131 - https://myip.ms/browse/sites/7179/ownerID/376714/ownerID_A/1

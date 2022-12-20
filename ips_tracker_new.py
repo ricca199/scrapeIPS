@@ -49,7 +49,7 @@ def set_options():
     chrome_options.add_argument("--ignore-ssl-errors")
     chrome_options.add_argument("--allow-running-insecure-content")
     chrome_options.add_argument("--disable-web-security")
-    chrome_options.add_argument("--headless")
+    #chrome_options.add_argument("--headless")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     chrome_options.add_experimental_option('useAutomationExtension', False)
     chrome_options.add_argument("no-default-browser-check")
@@ -58,22 +58,12 @@ def set_options():
     return chrome_options
     
 def detect_verification(driver):
-    api_key = os.getenv('APIKEY_2CAPTCHA', '186ae58c723e40dff69ed17b0b04b652')
-    solver = TwoCaptcha(api_key)
     try:
         wait = WebDriverWait(driver, timeout=60, ignored_exceptions=[TimeoutException])
         wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@id="captcha_submit"]')))
         #GET the image, solve it and enter the captcha
-        try:
-            captcha_img = driver.find_element(By.XPATH, "/html/body/div[2]/div/div/div/center/form/img")
-            logger.debug(f"Captcha image detected and stored")
-            captcha_img.screenshot('captchas/captcha.png')
-            result = solver.normal('captchas/captcha.png')
-            code = result['code']
-            logger.debug(f"The result of the captch is: {code}")
-            driver.find_element(By.XPATH, '//*[@id="p_captcha_response"]').send_keys(code)
-        except:
-            logger.debug("Captcha not present")
+        #Detect Captcha
+        detect_captcha(driver)
         #/html/body/div[2]/div/div/div/center/form/img
         #//*[@id="p_captcha_response"]
         element = driver.find_element(By.XPATH, '//*[@id="captcha_submit"]')
@@ -82,6 +72,21 @@ def detect_verification(driver):
     except:
         logger.debug("No Human verification appeared")
         return     
+
+def detect_captcha(driver):
+    api_key = os.getenv('APIKEY_2CAPTCHA', '186ae58c723e40dff69ed17b0b04b652')
+    solver = TwoCaptcha(api_key)
+    try:
+        captcha_img = driver.find_element(By.XPATH, "/html/body/div[2]/div/div/div/center/form/img")
+        logger.debug(f"Captcha image detected and stored: {captcha_img.is_displayed()}")
+        captcha_img.screenshot('captchas/captcha.png')
+        result = solver.normal('captchas/captcha.png')
+        code = result['code']
+        logger.debug(f"The result of the captch is: {code}")
+        driver.find_element(By.XPATH, '//*[@id="p_captcha_response"]').send_keys(code)
+    except:
+        logger.debug("Captcha not present")
+        return
     
 def get_links(result_list):
         #Extract all the https from page1 and store them in a list
@@ -117,16 +122,20 @@ def _run(driver,page_url):
     driver.get(page_url)
     #driver.implicitly_wait(2)
     logger.info("Detecting Human Verification")
+    driver.implicitly_wait(2)
     detect_verification(driver)
-    driver.implicitly_wait(5)
+    driver.implicitly_wait(2)
     logger.debug(driver.current_url)
     #Wait for the urls in table to be visible
     wait = WebDriverWait(driver, timeout=60, ignored_exceptions=[TimeoutException])
-    element = wait.until(EC.visibility_of_element_located((By.XPATH, "//td[@class='row_name']//a")))
+    element = wait.until(EC.presence_of_element_located((By.XPATH, "//td[@class='row_name']//a")))
     logger.debug(f"The links are displayed: {element.is_displayed()}")
     logger.debug(element.is_displayed())
-    result_list = get_element(driver)
-    links = ["https:" + result_list[i].text for i in range(len(result_list))]    
+    if element.is_displayed() == True: 
+        result_list = get_element(driver)
+        links = ["https:" + result_list[i].text for i in range(len(result_list))]
+    else:
+        logger.debug('Problems with the elements...')
     logger.debug(f"The links are: {links}")
     return links
 
@@ -204,8 +213,9 @@ if __name__ == '__main__':
     time_to_append = datetime.now().strftime('%Y-%m-%d_%H:%M:%S')
     filename = "table_urls_" + time_to_append + '.csv'
     cwd = Path.cwd() #setting current working directory
-    output_folder = cwd / "shopify_urls"
+    to_save = cwd / "shopify_urls" / filename
+    to_save = to_save.resolve()
     #Add parameters to control MAIN functions
     output =  main() 
     #with pd.ExcelWriter(cwd / filename) as writer:
-    output.to_csv(output_folder / filename)
+    output.to_csv(to_save)
