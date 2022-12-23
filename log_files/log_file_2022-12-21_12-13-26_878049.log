@@ -1,0 +1,52 @@
+2022-12-21 12:13:36.196 | DEBUG    | __main__:main:160 - the count is: 0
+2022-12-21 12:13:36.198 | DEBUG    | __main__:main:168 - New random number added to list
+2022-12-21 12:13:36.199 | INFO     | __main__:main:173 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '468']
+2022-12-21 12:13:36.200 | DEBUG    | __main__:get_url:100 - The new page is: https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:13:36.201 | INFO     | __main__:get_option_url:114 - Options and driver are being defined
+2022-12-21 12:13:39.173 | DEBUG    | __main__:main:189 - complete
+2022-12-21 12:13:39.174 | INFO     | __main__:_run:121 - Opening the URL page: https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:13:52.775 | INFO     | __main__:_run:124 - Detecting Human Verification
+2022-12-21 12:13:54.831 | DEBUG    | __main__:detect_captcha:88 - Captcha not present
+2022-12-21 12:13:54.845 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-21 12:13:55.930 | DEBUG    | __main__:_run:128 - https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:14:56.834 | DEBUG    | __main__:main:196 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-21 12:14:56.836 | INFO     | __main__:get_option_url:114 - Options and driver are being defined
+2022-12-21 12:14:59.564 | DEBUG    | __main__:main:198 - Re RUN...
+2022-12-21 12:14:59.565 | INFO     | __main__:_run:121 - Opening the URL page: https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:15:04.102 | INFO     | __main__:_run:124 - Detecting Human Verification
+2022-12-21 12:15:06.167 | DEBUG    | __main__:detect_captcha:88 - Captcha not present
+2022-12-21 12:15:06.181 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-21 12:15:17.360 | DEBUG    | __main__:_run:128 - https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:15:17.383 | DEBUG    | __main__:_run:132 - The links are displayed: True
+2022-12-21 12:15:17.391 | DEBUG    | __main__:_run:133 - True
+2022-12-21 12:15:17.837 | DEBUG    | __main__:_run:139 - The links are: ['https:tyr.co.nz', 'https:vapeology.co.nz', 'https:wintergardenz.com.au', 'https:4wdsupply.co.nz', 'https:4wdwarehouse.co.nz', 'https:achomestore.co.nz', 'https:actionsportsdirect.co.nz', 'https:adamsflags.co.nz', 'https:ageeyewear.com', 'https:allaboutagirl.co.nz', 'https:allfast.co.nz', 'https:analogue-amsterdam.com', 'https:aphmeow.com', 'https:apsanil.com', 'https:arcinaori.com.au', 'https:arcteryx.co.nz', 'https:batteryworx.co.nz', 'https:beerandwine.co.nz', 'https:beerjerk.co.nz', 'https:bengali.co.nz', 'https:bethlehemhealth.co.nz', 'https:bicyclejunction.co.nz', 'https:boomf.com', 'https:brennanwines.com', 'https:c4coffee.co.nz', 'https:calicokeep.co.nz', 'https:canineandco.co.za', 'https:caythorpe.nz', 'https:cellmart.nz', 'https:compulsiontech.co.nz', 'https:consumables.co.nz', 'https:coolcaretechnologies.com', 'https:dharmashop.com', 'https:downtoearthorganics.co.nz', 'https:drbugs.co.nz', 'https:dronetech.co.nz', 'https:drorganic.co.uk', 'https:drypaws.co.nz', 'https:earshots.com', 'https:earthrunners.com', 'https:ecoya.co.nz', 'https:edenorchards.co.nz', 'https:essano.com.au', 'https:excavatorpartsdirect.co.uk', 'https:exitsurf.co.nz', 'https:extremehobbies.co.nz', 'https:faithfulfrank.com', 'https:familytreenotebooks.com', 'https:fashionbrazil.co.nz', 'https:fazcorp.co.nz']
+2022-12-21 12:15:19.866 | INFO     | __main__:get_option_url:114 - Options and driver are being defined
+2022-12-21 12:15:23.129 | DEBUG    | __main__:main:189 - complete
+2022-12-21 12:15:23.131 | INFO     | __main__:_run:121 - Opening the URL page: https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:15:28.735 | INFO     | __main__:_run:124 - Detecting Human Verification
+2022-12-21 12:16:29.514 | DEBUG    | __main__:detect_verification:73 - No Human verification appeared
+2022-12-21 12:16:29.520 | DEBUG    | __main__:_run:128 - https://myip.ms/browse/sites/468/ownerID/376714/ownerID_A/1
+2022-12-21 12:16:29.537 | DEBUG    | __main__:_run:132 - The links are displayed: True
+2022-12-21 12:16:29.544 | DEBUG    | __main__:_run:133 - True
+2022-12-21 12:16:29.937 | DEBUG    | __main__:_run:139 - The links are: ['https:tyr.co.nz', 'https:vapeology.co.nz', 'https:wintergardenz.com.au', 'https:4wdsupply.co.nz', 'https:4wdwarehouse.co.nz', 'https:achomestore.co.nz', 'https:actionsportsdirect.co.nz', 'https:adamsflags.co.nz', 'https:ageeyewear.com', 'https:allaboutagirl.co.nz', 'https:allfast.co.nz', 'https:analogue-amsterdam.com', 'https:aphmeow.com', 'https:apsanil.com', 'https:arcinaori.com.au', 'https:arcteryx.co.nz', 'https:batteryworx.co.nz', 'https:beerandwine.co.nz', 'https:beerjerk.co.nz', 'https:bengali.co.nz', 'https:bethlehemhealth.co.nz', 'https:bicyclejunction.co.nz', 'https:boomf.com', 'https:brennanwines.com', 'https:c4coffee.co.nz', 'https:calicokeep.co.nz', 'https:canineandco.co.za', 'https:caythorpe.nz', 'https:cellmart.nz', 'https:compulsiontech.co.nz', 'https:consumables.co.nz', 'https:coolcaretechnologies.com', 'https:dharmashop.com', 'https:downtoearthorganics.co.nz', 'https:drbugs.co.nz', 'https:dronetech.co.nz', 'https:drorganic.co.uk', 'https:drypaws.co.nz', 'https:earshots.com', 'https:earthrunners.com', 'https:ecoya.co.nz', 'https:edenorchards.co.nz', 'https:essano.com.au', 'https:excavatorpartsdirect.co.uk', 'https:exitsurf.co.nz', 'https:extremehobbies.co.nz', 'https:faithfulfrank.com', 'https:familytreenotebooks.com', 'https:fashionbrazil.co.nz', 'https:fazcorp.co.nz']
+2022-12-21 12:16:29.938 | DEBUG    | __main__:main:191 - Links scraped at the first attempt: #1
+2022-12-21 12:16:29.939 | DEBUG    | __main__:main:200 - Updating the Table containing the URLS
+2022-12-21 12:16:31.975 | DEBUG    | __main__:main:160 - the count is: 1
+2022-12-21 12:16:31.977 | DEBUG    | __main__:main:168 - New random number added to list
+2022-12-21 12:16:31.979 | INFO     | __main__:main:173 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '468', '144']
+2022-12-21 12:16:31.980 | DEBUG    | __main__:get_url:100 - The new page is: https://myip.ms/browse/sites/144/ownerID/376714/ownerID_A/1
+2022-12-21 12:16:31.981 | INFO     | __main__:get_option_url:114 - Options and driver are being defined
+2022-12-21 12:16:33.222 | DEBUG    | __main__:main:189 - complete
+2022-12-21 12:16:33.223 | INFO     | __main__:_run:121 - Opening the URL page: https://myip.ms/browse/sites/144/ownerID/376714/ownerID_A/1
+2022-12-21 12:16:38.659 | INFO     | __main__:_run:124 - Detecting Human Verification
+2022-12-21 12:16:40.733 | DEBUG    | __main__:detect_captcha:88 - Captcha not present
+2022-12-21 12:16:40.747 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-21 12:16:42.011 | DEBUG    | __main__:_run:128 - https://myip.ms/browse/sites/144/ownerID/376714/ownerID_A/1
+2022-12-21 12:17:42.945 | DEBUG    | __main__:main:196 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-21 12:17:42.946 | INFO     | __main__:get_option_url:114 - Options and driver are being defined
+2022-12-21 12:17:44.748 | DEBUG    | __main__:main:198 - Re RUN...
+2022-12-21 12:17:44.749 | INFO     | __main__:_run:121 - Opening the URL page: https://myip.ms/browse/sites/144/ownerID/376714/ownerID_A/1
+2022-12-21 12:17:48.740 | INFO     | __main__:_run:124 - Detecting Human Verification
+2022-12-21 12:17:50.823 | DEBUG    | __main__:detect_captcha:88 - Captcha not present
+2022-12-21 12:17:50.837 | DEBUG    | __main__:detect_verification:70 - Element is displayed: True
+2022-12-21 12:17:51.939 | DEBUG    | __main__:_run:128 - https://myip.ms/browse/sites/144/ownerID/376714/ownerID_A/1

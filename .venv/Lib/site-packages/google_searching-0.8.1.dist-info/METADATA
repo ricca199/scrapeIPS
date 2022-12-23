@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: google-searching
+Version: 0.8.1
+Summary: Scraping google search results
+Home-page: https://github.com/deedy5/google_searching
+Author: deedy5
+Author-email: 
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Internet :: WWW/HTTP :: Indexing/Search
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests (>=2.26.0)
+Requires-Dist: lxml (>=4.6.3)
+
+![Python >= 3.6](https://img.shields.io/badge/python->=3.6-red.svg) [![](https://badgen.net/github/release/deedy5/google_searching)](https://github.com/deedy5/google_searching/releases) [![](https://badge.fury.io/py/google-searching.svg)](https://pypi.org/project/google_searching) 
+## Google_searching
+
+Google.com search results.
+
+### Install
+```python
+pip install -U google_searching
+```
+
+### Usage
+*WARNING!: the site gives an captcha when making frequent repeated requests.* <br/> Call ggl() function again after at least **5 seconds.**
+```python
+from google_searching import ggl
+
+ggl(keywords, lang='en', max_results=20):
+    ''' Google search
+    keywords: keywords for query,
+    lang: language of search results,
+    max_results: not limited, in practice about 500.
+    '''
+```
+### Returns
+```python
+[
+{'title': title of result,
+  'href': href of result,
+  'body': body of result},
+...
+]
+```
+
+### Example
+```python3
+from google_searching import ggl
+
+r = ggl('usa', lang='en', max_results=100)
+print(r)
+```

@@ -1,0 +1,15 @@
+2022-12-21 13:36:54.720 | DEBUG    | __main__:main:170 - the count is: 0
+2022-12-21 13:36:54.721 | DEBUG    | __main__:main:178 - New random number added to list
+2022-12-21 13:36:54.723 | INFO     | __main__:main:183 - The random list of generated number is: ['4027;6016;1339;2668;8131;3480;4344;6789;7020;7723;6450;789;6995;3680;5290;3259;2214;4404;4863;6240;1996;2281;1016;6497;8037;4346;2273;7740;4809;3169;1391;2881;7729;3851;2666;1513;5878;6581;8026;4329;1629;560;7904;920;4921;3078;2730;2174;5517;7254', '1431']
+2022-12-21 13:36:54.724 | DEBUG    | __main__:get_url:103 - The new page is: https://myip.ms/browse/sites/1431/ownerID/376714/ownerID_A/1
+2022-12-21 13:36:54.725 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-21 13:36:55.721 | DEBUG    | __main__:main:199 - complete
+2022-12-21 13:36:55.722 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/1431/ownerID/376714/ownerID_A/1
+2022-12-21 13:36:59.011 | INFO     | __main__:_run:127 - Detecting Human Verification..
+2022-12-21 13:36:59.014 | DEBUG    | __main__:detect_verification:73 - No Human verification appeared
+2022-12-21 13:36:59.015 | INFO     | __main__:_run:134 - Running the IPS Scraper...
+2022-12-21 13:36:59.017 | DEBUG    | __main__:detect_captcha:91 - Captcha not present
+2022-12-21 13:36:59.019 | DEBUG    | __main__:main:206 - Either element not found or some issues, try another time, attempt #: 1
+2022-12-21 13:36:59.022 | INFO     | __main__:get_option_url:117 - Options and driver are being defined
+2022-12-21 13:36:59.992 | DEBUG    | __main__:main:208 - Re RUN...
+2022-12-21 13:36:59.993 | INFO     | __main__:_run:124 - Opening the URL page: https://myip.ms/browse/sites/1431/ownerID/376714/ownerID_A/1
